@@ -5,6 +5,9 @@ __pycache__/
 db.sqlite3
 lib/
 env/Scripts/
+build
+build/
+build/*
 
 *pyc
 # C extensions
